@@ -1,4 +1,4 @@
-# Gulp, PostCSS and BrowserSync Tutorial
+# Gulp, PostCSS and BrowserSync Example
 
 Tutorial describing how Gulp works with PostCss and BrowserSync.    
 Basically, Gulp is used to monitor file changes. On change, PostCSS(and addons)    
