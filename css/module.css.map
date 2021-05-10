@@ -1,0 +1,1 @@
+{"version":3,"sources":["module.css"],"names":[],"mappings":"AAAA;IACI,eAAe;AACnB","file":"module.css","sourcesContent":[".class-from-module{\n    background:blue;\n}\n"]}
